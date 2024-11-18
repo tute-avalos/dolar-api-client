@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de README para tu repositorio en GitHub:
-
 ---
 
 # Proyecto: **Consulta de Cotización del Dólar con ESP8266**
